@@ -1,0 +1,78 @@
+|2021_08_07|02_57_36| (I) Started program instance.
+|2021_08_07|02_57_39| (I) Successfully loaded model in.
+|2021_08_07|02_57_39| (I) Successfully started bot instance.
+|2021_08_07|03_08_01| (I) Recieved mention by u/SiberiaDragon94.
+|2021_08_07|03_08_01| (I) Comment id: h7ywo16
+|2021_08_07|03_08_01| (I) Comment body: u/Nitori-bot
+|2021_08_07|03_08_01| (I) Recieved arguments for generator:
+|2021_08_07|03_08_01| (I) {'seed': 1278041774, 'trunc': 0.7}
+|2021_08_07|03_08_02| (I) Successfully generated image.
+|2021_08_07|03_08_06| (I) Successfully submitted image.
+|2021_08_07|03_08_06| (I) Submission id: ozdb7q
+|2021_08_07|03_08_06| (I) Image url: https://i.redd.it/7dhodc3ndsf71.png
+|2021_08_07|03_08_07| (I) Reply successful.
+|2021_08_07|04_15_41| (I) Recieved mention by u/DevinTheDisgraced.
+|2021_08_07|04_15_41| (I) Comment id: h7z5ycf
+|2021_08_07|04_15_41| (I) Comment body: /u/Nitori-bot
+|2021_08_07|04_15_41| (W) Unable to understand arguments provided. Replying with an error message.
+|2021_08_07|04_15_42| (I) Reply successful.
+|2021_08_07|04_19_16| (I) Recieved mention by u/DevinTheDisgraced.
+|2021_08_07|04_19_16| (I) Comment id: h7z6fpc
+|2021_08_07|04_19_16| (I) Comment body: u/Nitori-bot
+|2021_08_07|04_19_16| (I) Recieved arguments for generator:
+|2021_08_07|04_19_16| (I) {'seed': 1659216533, 'trunc': 0.7}
+|2021_08_07|04_19_16| (I) Successfully generated image.
+|2021_08_07|04_19_21| (I) Successfully submitted image.
+|2021_08_07|04_19_21| (I) Submission id: ozeojb
+|2021_08_07|04_19_21| (I) Image url: https://i.redd.it/bcriz6jcqsf71.png
+|2021_08_07|04_19_21| (I) Reply successful.
+|2021_08_07|04_31_36| (I) Recieved mention by u/Jman201_VN.
+|2021_08_07|04_31_36| (I) Comment id: h7z82y5
+|2021_08_07|04_31_36| (I) Comment body: u/Nitori-bot
+|2021_08_07|04_31_36| (I) Recieved arguments for generator:
+|2021_08_07|04_31_36| (I) {'seed': 2873425336, 'trunc': 0.7}
+|2021_08_07|04_31_36| (I) Successfully generated image.
+|2021_08_07|04_31_39| (I) Successfully submitted image.
+|2021_08_07|04_31_39| (I) Submission id: ozex3c
+|2021_08_07|04_31_40| (I) Image url: https://i.redd.it/5m1ms1ujssf71.png
+|2021_08_07|04_31_40| (I) Reply successful.
+|2021_08_07|04_37_19| (I) Recieved mention by u/Thomas_Baughman.
+|2021_08_07|04_37_19| (I) Comment id: h7z8uvo
+|2021_08_07|04_37_19| (I) Comment body: u/Nitori-bot --seed=69 --trunc=9
+|2021_08_07|04_37_19| (I) Recieved arguments for generator:
+|2021_08_07|04_37_19| (I) {'seed': 69, 'trunc': 9.0}
+|2021_08_07|04_37_19| (I) Successfully generated image.
+|2021_08_07|04_37_22| (I) Successfully submitted image.
+|2021_08_07|04_37_22| (I) Submission id: ozf0yl
+|2021_08_07|04_37_23| (I) Image url: https://i.redd.it/mq791zjktsf71.png
+|2021_08_07|04_37_23| (I) Reply successful.
+|2021_08_07|04_39_38| (I) Recieved mention by u/Thomas_Baughman.
+|2021_08_07|04_39_38| (I) Comment id: h7z962a
+|2021_08_07|04_39_38| (I) Comment body: u/Nitori-bot --seed=69 --trunc=2
+|2021_08_07|04_39_38| (I) Recieved arguments for generator:
+|2021_08_07|04_39_38| (I) {'seed': 69, 'trunc': 2.0}
+|2021_08_07|04_39_38| (I) Successfully generated image.
+|2021_08_07|04_39_41| (I) Successfully submitted image.
+|2021_08_07|04_39_41| (I) Submission id: ozf2iz
+|2021_08_07|04_39_41| (I) Image url: https://i.redd.it/az9byadztsf71.png
+|2021_08_07|04_39_42| (I) Reply successful.
+|2021_08_07|05_32_44| (I) Recieved mention by u/boyfriendgaming.
+|2021_08_07|05_32_44| (I) Comment id: h7zgaau
+|2021_08_07|05_32_44| (I) Comment body: u/Nitori-bot
+|2021_08_07|05_32_44| (I) Recieved arguments for generator:
+|2021_08_07|05_32_44| (I) {'seed': 674467666, 'trunc': 0.7}
+|2021_08_07|05_32_44| (I) Successfully generated image.
+|2021_08_07|05_32_49| (I) Successfully submitted image.
+|2021_08_07|05_32_49| (I) Submission id: ozg2vv
+|2021_08_07|05_32_49| (I) Image url: https://i.redd.it/2riddihg3tf71.png
+|2021_08_07|05_32_49| (I) Reply successful.
+|2021_08_07|06_00_49| (I) Recieved mention by u/SiberiaDragon94.
+|2021_08_07|06_00_49| (I) Comment id: h7zjxsn
+|2021_08_07|06_00_49| (I) Comment body: u/Nitori-bot
+|2021_08_07|06_00_49| (I) Recieved arguments for generator:
+|2021_08_07|06_00_49| (I) {'seed': 3060391221, 'trunc': 0.7}
+|2021_08_07|06_00_49| (I) Successfully generated image.
+|2021_08_07|06_00_53| (I) Successfully submitted image.
+|2021_08_07|06_00_53| (I) Submission id: ozglil
+|2021_08_07|06_00_53| (I) Image url: https://i.redd.it/xtfvj2vg8tf71.png
+|2021_08_07|06_00_54| (I) Reply successful.

@@ -1,0 +1,3 @@
+|2021_08_07|08_51_41| (I) Started program instance.
+|2021_08_07|08_51_43| (I) Successfully loaded model in.
+|2021_08_07|08_51_43| (I) Successfully started bot instance.
